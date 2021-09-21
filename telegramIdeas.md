@@ -1,3 +1,5 @@
+The story starts with a unknown person finding the first dragon egg… and not knowingly starting a chain reaction in the world of dragon uprising…
+
 #1 
 ```
 Orztirr Studio, [14.09.21 15:12]
@@ -280,13 +282,9 @@ I'll pitch my in-game NPC interaction idea again, with marketplaces to trade pot
 quests for NPCs like Shamans, Wizards, Tribes etc. Even to gain XP/HP there should be another way apart from the dragon resting in the lair/den 
 or winning fights. Maybe when one player gets the offspring after mating, both of the players get some amount of XP too and the offspring can be 
 fed some potions to give it rare abilities.
-Suggested reading
--https://twitter.com/Tocelot/status/1439632031726456832?s=19
-    Good Thread about Play2Earn Game Models & which types got successful..
-    Interesting thread
-    -def creating more ways to play the game to participate in the economy is important
-      -e.g. people who breed dragons to get eggs to then sell them to new players
 ```
+
+
 ```
 I think it'll be cool if we can build marketplace inside of http://lands.near.page
 I'm thinking to add some features where you can interact with smart contracts from withing world
@@ -324,5 +322,11 @@ parents points calculated by their points out of the total 100.
 *example3* both have 100 points baby would be born at level 10. 
 could randomize it a bit with a range of points each level their dragon is at will get them.
 ```
-The story starts with a unknown person finding the first dragon egg… and not knowingly starting a chain reaction in the world of dragon uprising…
+Suggested reading
+-https://twitter.com/Tocelot/status/1439632031726456832?s=19
+    Good Thread about Play2Earn Game Models & which types got successful..
+    Interesting thread
+    -def creating more ways to play the game to participate in the economy is important
+      -e.g. people who breed dragons to get eggs to then sell them to new players
+
 -this discussion might be relevant https://gov.near.org/t/nft-alchemy-idea/322
